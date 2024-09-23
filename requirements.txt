@@ -1,0 +1,14 @@
+pandas
+numpy
+missingno
+seaborn
+matplotlib
+scipy
+imbalanced-learn
+scikit-learn==1.2.2
+xgboost
+lightgbm
+optuna
+flask
+ipykernel
+optuna
